@@ -1,0 +1,20 @@
+.letra {
+    font-family: 'Akronim', cursive;
+    font-size: 9em;
+    color: #fff;
+}
+
+.letra2 {
+    font-size: 2.2em;
+    color: #fff;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.tam {
+    font-size: 1.3em;
+    color: #fff;
+}
+
+.fundo {
+    background-image: linear-gradient(to bottom right, #0424D9, #4F7FAB);
+}
