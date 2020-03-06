@@ -15,6 +15,26 @@
     color: #fff;
 }
 
-.fundo {
-    background-image: linear-gradient(to bottom right, #0424D9, #4F7FAB);
+.bg-title {
+    background: url('../TrabalhoPW-1/img/ven.jpg') center center;
+}
+
+.corzin {
+    background-color: #4bcffa;
+}
+
+.a {
+    color: #0984e3;
+}
+
+.b {
+    color: ;
+}
+
+.d {
+    color: ;
+}
+
+.e {
+    color: ;
 }
