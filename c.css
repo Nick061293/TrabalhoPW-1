@@ -16,11 +16,20 @@
 }
 
 .bg-title {
-    background: url('../TrabalhoPW-1/img/ven.jpg') center center;
+    background: url('../TrabalhoPW-1/img/esp.jpg') center center;
 }
 
 .corzin {
-    background-color: #4bcffa;
+    background-image: linear-gradient(to bottom right, #FC427B, #3B3B98);
+    font-family: 'Audiowide', cursive;
+}
+
+.bg-nav {
+    background-image: linear-gradient(to bottom right, #FC427B, #3B3B98);
+}
+
+.mdi-corzin-n {
+    color: #fff;
 }
 
 .a {
@@ -28,13 +37,9 @@
 }
 
 .b {
-    color: ;
+    color: #9b59b6;
 }
 
 .d {
-    color: ;
-}
-
-.e {
-    color: ;
+    color: #2ecc71;
 }
