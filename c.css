@@ -16,7 +16,13 @@
 }
 
 .bg-title {
-    background: url('../TrabalhoPW-1/img/esp.jpg') center center;
+    background: url('../TrabalhoPW-1/img/esp.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+.bg-mob {
+    background-image: linear-gradient(to bottom right, #FC427B, #3B3B98);
 }
 
 .corzin {
