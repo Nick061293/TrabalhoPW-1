@@ -21,10 +21,6 @@
     background-position: center center;
 }
 
-.bg-mob {
-    background-image: linear-gradient(to bottom right, #FC427B, #3B3B98);
-}
-
 .corzin {
     background-image: linear-gradient(to bottom right, #FC427B, #3B3B98);
     font-family: 'Audiowide', cursive;
@@ -32,6 +28,22 @@
 
 .bg-nav {
     background-image: linear-gradient(to bottom right, #FC427B, #3B3B98);
+}
+
+.mt--5 {
+    margin-top: -2rem;
+}
+
+.mt-n6 {
+    margin-top: -4re;
+}
+
+.txtspn {
+    z-index: 99;
+    position: absolute;
+    text-align: center;
+    font-size: 1.6em;
+    margin-left: 2.5rem;
 }
 
 .mdi-corzin-n {
